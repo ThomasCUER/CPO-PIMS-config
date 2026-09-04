@@ -1,0 +1,2998 @@
+[
+    {
+        "country": "AD",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AD",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AL",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT22H"
+    },
+    {
+        "country": "AT",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "AT",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AT",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "AZ",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "AZ",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BA",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT22H"
+    },
+    {
+        "country": "BE",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "BE",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT7M",
+        "mission_autoclosure_delay": "P3D"
+    },
+    {
+        "country": "BE",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BE",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "BG",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "BG",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CH",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CO",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CY",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "CZ",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT22H"
+    },
+    {
+        "country": "DE",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "DE",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DE",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "DK",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "DK",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "EE",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ES",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "ES",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P40D"
+    },
+    {
+        "country": "FI",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FI",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "FR",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "GB",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "P10D",
+        "automatic_assignment_timeout": "P10DT12H",
+        "mission_autoclosure_delay": "P90D"
+    },
+    {
+        "country": "GB",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "GB",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GB",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "GR",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HR",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "HU",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT15M",
+        "automatic_assignment_timeout": "PT30M",
+        "mission_autoclosure_delay": "P14D"
+    },
+    {
+        "country": "IE",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IE",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IE",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IS",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "IT",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT11M",
+        "mission_autoclosure_delay": "P10D"
+    },
+    {
+        "country": "IT",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "IT",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P5D"
+    },
+    {
+        "country": "LI",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LI",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LT",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT22H"
+    },
+    {
+        "country": "LU",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "LU",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LU",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "LV",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "LV",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MA",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MC",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MD",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ME",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MK",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "MT",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT22H"
+    },
+    {
+        "country": "NL",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "P1DT18H"
+    },
+    {
+        "country": "NL",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NL",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P1D"
+    },
+    {
+        "country": "NO",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "NO",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PL",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "PT",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RO",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "RS",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SE",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SI",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "SK",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TN",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "TR",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "UA",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "ACCOMMODATION",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "HOUSE_DELIVERY",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "SPECIALIZED_HELP",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "TRAVEL_TICKET",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "VA",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT6M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "ZZ",
+        "category": "ROADSIDE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "PT5M"
+    },
+    {
+        "country": "ZZ",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT10M",
+        "automatic_assignment_timeout": "PT15M",
+        "mission_autoclosure_delay": "PT5M"
+    },
+    {
+        "country": "ZZ",
+        "category": "RENTAL",
+        "mission_order_timeout": "PT1M",
+        "automatic_assignment_timeout": "PT5M",
+        "mission_autoclosure_delay": "PT8M"
+    },
+    {
+        "country": "ZZ",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "PT7M"
+    },
+    {
+        "country": "ZZ",
+        "category": "HOUSE_HELP",
+        "mission_order_timeout": "PT11M",
+        "automatic_assignment_timeout": "PT7M",
+        "mission_autoclosure_delay": "P3D"
+    }
+]
