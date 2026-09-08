@@ -954,8 +954,8 @@
     {
         "country": "FR",
         "category": "DOMESTIC",
-        "mission_order_timeout": "PT10M",
-        "automatic_assignment_timeout": "PT15M",
+        "mission_order_timeout": "PT16M",
+        "automatic_assignment_timeout": "PT35M",
         "mission_autoclosure_delay": "P2D"
     },
     {

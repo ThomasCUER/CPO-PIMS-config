@@ -1009,6 +1009,13 @@
     },
     {
         "country": "FR",
+        "category": "DOMESTIC",
+        "mission_order_timeout": "PT16M",
+        "automatic_assignment_timeout": "PT35M",
+        "mission_autoclosure_delay": "P2D"
+    },
+    {
+        "country": "FR",
         "category": "HOUSE_HELP",
         "mission_order_timeout": "PT10M",
         "automatic_assignment_timeout": "PT15M",
@@ -1024,13 +1031,6 @@
     {
         "country": "FR",
         "category": "ACCOMMODATION",
-        "mission_order_timeout": "PT10M",
-        "automatic_assignment_timeout": "PT15M",
-        "mission_autoclosure_delay": "P2D"
-    },
-    {
-        "country": "FR",
-        "category": "DOMESTIC",
         "mission_order_timeout": "PT10M",
         "automatic_assignment_timeout": "PT15M",
         "mission_autoclosure_delay": "P2D"
@@ -1460,7 +1460,7 @@
         "category": "DOMESTIC",
         "mission_order_timeout": "PT10M",
         "automatic_assignment_timeout": "PT15M",
-        "mission_autoclosure_delay": "P5D"
+        "mission_autoclosure_delay": "P1D"
     },
     {
         "country": "IT",
@@ -1488,7 +1488,7 @@
         "category": "ROADSIDE",
         "mission_order_timeout": "PT10M",
         "automatic_assignment_timeout": "PT11M",
-        "mission_autoclosure_delay": "P10D"
+        "mission_autoclosure_delay": "P1D"
     },
     {
         "country": "IT",
