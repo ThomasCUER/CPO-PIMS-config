@@ -1,0 +1,6362 @@
+[
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420100",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420101",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420102",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420103",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420104",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420114",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420115",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420116",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420117",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420118",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420119",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420120",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420121",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420122",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420123",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420124",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420125",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420126",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420127",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420128",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420129",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420130",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420131",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420132",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420133",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420134",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420135",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420136",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420137",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420138",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420139",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "0420140",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "MOTOR DEFAULT UK11",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKDEF1",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKERESCUETEST01",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKERESCUETEST02",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKERESCUETEST03",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKERESCUETEST04",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1",
+    "package_id": "UKERESCUETEST05",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2",
+    "package_id": "0434401",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2",
+    "package_id": "0434402",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0411500",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417200",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417201",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417202",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417203",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417204",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417703",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417704",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417711",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417712",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417730",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417731",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417732",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417733",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417734",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417735",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417736",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417737",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417738",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417739",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417740",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417741",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417742",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417743",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417744",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417745",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417746",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417747",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417748",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417749",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417750",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417751",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417752",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417753",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417754",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417755",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417756",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417757",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417758",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0417759",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0487505",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0487506",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "0487507",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "MOTOR DEFAULT UK12",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3",
+    "package_id": "MOTOR DEFAULT UK13",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "10",
+    "package_id": "0460001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0417215",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421801",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421802",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421803",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421804",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421805",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421808",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421809",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421813",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421814",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421817",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421829",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421831",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421832",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421833",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421834",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421835",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421836",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421837",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421838",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421839",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421840",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421841",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421842",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421843",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421846",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421847",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421848",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421849",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421850",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421851",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0421852",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0422500",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "21",
+    "package_id": "0430000",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0410300",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0410301",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412300",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412301",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412302",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412303",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412304",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412306",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412307",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412308",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412309",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412310",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412311",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412312",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412313",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412314",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412315",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412316",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412317",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412318",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412319",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "22",
+    "package_id": "0412320",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417705",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417706",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417707",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417708",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417709",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417710",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417716",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417717",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417718",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417719",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417720",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417721",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417722",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417723",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417724",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417725",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417726",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417727",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417728",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "23",
+    "package_id": "0417729",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445002",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445004",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445005",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445006",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445007",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445008",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445009",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445010",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445011",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445012",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445013",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445014",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445015",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445016",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445017",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445018",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445019",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445020",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445021",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445022",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "37",
+    "package_id": "0445023",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453600",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453604",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453605",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453612",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453614",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453615",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453616",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453626",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453627",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453628",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453629",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453630",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453631",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453632",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453633",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453634",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453635",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453636",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453637",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453638",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453639",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453640",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453641",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453642",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453643",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453644",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453645",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453646",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453647",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453648",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453649",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453650",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453651",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453652",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453653",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453654",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453655",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453656",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453657",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453658",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453659",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453660",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453661",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453662",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453663",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453664",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453665",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453666",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453667",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "0453668",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "38",
+    "package_id": "MOTOR DEFAULT UK05",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437300",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437301",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437302",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437303",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437304",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437305",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437306",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437307",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437308",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437309",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437310",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437311",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437312",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437313",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437314",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437315",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437316",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437317",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437318",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437319",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437320",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437321",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437322",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437323",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437324",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437325",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437326",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437327",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437328",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437329",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437330",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437331",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437332",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437333",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437334",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437335",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437336",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437337",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437338",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437339",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437340",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437341",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437342",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437343",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437344",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437345",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437346",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437347",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437348",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437349",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437350",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437351",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437352",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437353",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437354",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437355",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437356",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437357",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437358",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437359",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437360",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437361",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437362",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437363",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437364",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437365",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437366",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437367",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437368",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437369",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437370",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437371",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437372",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437373",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437374",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437375",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437376",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437377",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437378",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437379",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437380",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437382",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437383",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437384",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437385",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437386",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437387",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437388",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437389",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437390",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437391",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437392",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "39",
+    "package_id": "0437393",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "48",
+    "package_id": "0417727",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460000",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460002",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460004",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460005",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460006",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "59",
+    "package_id": "0460007",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "62",
+    "package_id": "0445003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "67",
+    "package_id": "0437301",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "68",
+    "package_id": "0437381",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "77",
+    "package_id": "0459907",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "87",
+    "package_id": "0450202",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "87",
+    "package_id": "0450203",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "87",
+    "package_id": "0450204",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "87",
+    "package_id": "0450205",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "87",
+    "package_id": "0450206",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459902",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459903",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459904",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459905",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459908",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459909",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459910",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "0459911",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "MOTOR DEFAULT UK08",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "103",
+    "package_id": "MOTOR DEFAULT UK09",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "105",
+    "package_id": "0423801",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "105",
+    "package_id": "0423803",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "105",
+    "package_id": "0423805",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "105",
+    "package_id": "0423806",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423902",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423903",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423904",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423907",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423908",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "706",
+    "package_id": "0423909",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "707",
+    "package_id": "0459600",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "707",
+    "package_id": "0459605",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439401",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439402",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439403",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439404",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439405",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439406",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439407",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439408",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439409",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439410",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439411",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439412",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439423",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439424",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439425",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "0439426",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "708",
+    "package_id": "MOTOR DEFAULT UK02",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "721",
+    "package_id": "0423802",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "721",
+    "package_id": "0423804",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "725",
+    "package_id": "0423904",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB07",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "725",
+    "package_id": "0423907",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "895",
+    "package_id": "0421701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "896",
+    "package_id": "0449000",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "896",
+    "package_id": "0449001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "910",
+    "package_id": "0459814",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "910",
+    "package_id": "0459815",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438100",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438101",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438103",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438104",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438105",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438126",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438127",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438128",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438129",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438130",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438131",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "933",
+    "package_id": "0438132",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430704",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430708",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430709",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430710",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430711",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430712",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430713",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430724",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430725",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430727",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430728",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430729",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430730",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430732",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430733",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430734",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430737",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430738",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430739",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430741",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430742",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430743",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430744",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430745",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430746",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430747",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430748",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430749",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430750",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430751",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430752",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430753",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430756",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430757",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430758",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430759",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430760",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0430762",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433542",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433543",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433550",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433551",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433552",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433553",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433554",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433555",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433556",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433557",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433558",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433559",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433560",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433561",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433562",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433563",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433564",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433565",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433566",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433567",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433568",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433569",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433570",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433571",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433572",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433579",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433580",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433581",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433582",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433583",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433584",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433585",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433586",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433587",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0433588",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463500",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463501",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463502",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463503",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463504",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463505",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463506",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463507",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463508",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463509",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463510",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463511",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463512",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463513",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463514",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463515",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463516",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463517",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463518",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463519",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463520",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463521",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463522",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463523",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463524",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463525",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463526",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463527",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463528",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463529",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463530",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463531",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463532",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463533",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463534",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463535",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463536",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463537",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463538",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "0463539",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "MOTOR DEFAULT UK01",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "MOTOR DEFAULT UK03",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1051",
+    "package_id": "MOTOR DEFAULT UK04",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1052",
+    "package_id": "0408002",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1054",
+    "package_id": "0408001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1056",
+    "package_id": "0408003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1056",
+    "package_id": "0408005",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1056",
+    "package_id": "0408014",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1056",
+    "package_id": "0408035",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1057",
+    "package_id": "0408034",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437703",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437704",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437705",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437706",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437707",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437708",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437709",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437710",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437711",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437713",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437714",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437716",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437717",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437718",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437719",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437720",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437721",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437722",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437723",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "0437724",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1064",
+    "package_id": "MOTOR DEFAULT UK07",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1181",
+    "package_id": "0425770",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1181",
+    "package_id": "0425771",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1181",
+    "package_id": "0425772",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0423601",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0423602",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462800",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462802",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462807",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462811",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462812",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1182",
+    "package_id": "0462813",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1183",
+    "package_id": "0432502",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1183",
+    "package_id": "0432503",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1193",
+    "package_id": "0465200",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1193",
+    "package_id": "0465201",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1325",
+    "package_id": "0459816",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424714",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424720",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424721",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424722",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424723",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424724",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424725",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424726",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424727",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424728",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424729",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424730",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424731",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424732",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424733",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424734",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424735",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424736",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "0424737",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1326",
+    "package_id": "MOTOR DEFAULT UK10",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1327",
+    "package_id": "0419700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1327",
+    "package_id": "0437712",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453669",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453670",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453671",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453672",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453674",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453675",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453676",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "0453677",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1328",
+    "package_id": "MOTOR DEFAULT UK06",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418703",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418704",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418705",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418706",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418707",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418708",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418709",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418710",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418711",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418712",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418713",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418714",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418716",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418717",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418718",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418719",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1330",
+    "package_id": "0418720",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1376",
+    "package_id": "0459603",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1377",
+    "package_id": "0459604",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1521",
+    "package_id": "0453678",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1521",
+    "package_id": "0453679",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1521",
+    "package_id": "0453680",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1530",
+    "package_id": "0438116",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1530",
+    "package_id": "0438125",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1531",
+    "package_id": "0438109",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1531",
+    "package_id": "0438133",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465300",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465301",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465302",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465303",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465304",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465305",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465306",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1745",
+    "package_id": "0465307",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1772",
+    "package_id": "0408032",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1772",
+    "package_id": "0408039",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1772",
+    "package_id": "0408040",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1773",
+    "package_id": "0408002",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1773",
+    "package_id": "0408010",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1774",
+    "package_id": "0408046",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1775",
+    "package_id": "0408001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1775",
+    "package_id": "0408004",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1775",
+    "package_id": "0408012",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1775",
+    "package_id": "0408037",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1775",
+    "package_id": "0408038",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1776",
+    "package_id": "0408007",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408005",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408006",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408011",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408014",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408024",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408025",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408026",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408027",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408033",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408035",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408036",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408049",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "0408050",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1777",
+    "package_id": "MOTOR DEFAULT IR02",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1778",
+    "package_id": "0408034",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1778",
+    "package_id": "0408041",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1778",
+    "package_id": "0408051",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1778",
+    "package_id": "0408052",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1778",
+    "package_id": "0408053",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1793",
+    "package_id": "MOTOR DEFAULT UK18",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1794",
+    "package_id": "MOTOR DEFAULT UK19",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1803",
+    "package_id": "0408030",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1803",
+    "package_id": "0408031",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1803",
+    "package_id": "0426900",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1803",
+    "package_id": "0426902",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1804",
+    "package_id": "0408047",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1804",
+    "package_id": "0426903",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1807",
+    "package_id": "0426100",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1961",
+    "package_id": "0434403",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436900",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436901",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436902",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436905",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436906",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436907",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436908",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436913",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436914",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436917",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "0436920",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1985",
+    "package_id": "MOTOR DEFAULT IR01",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1995",
+    "package_id": "0465400",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "1995",
+    "package_id": "0465401",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2156",
+    "package_id": "0424408",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2156",
+    "package_id": "0424413",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2158",
+    "package_id": "0424706",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2158",
+    "package_id": "0424738",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465500",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465501",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465502",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465503",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465504",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465505",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465506",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465507",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465508",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465509",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465510",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465511",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465512",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465513",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465514",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465515",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465516",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465517",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465518",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465519",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465520",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465521",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465522",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465523",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465524",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465525",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465526",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465527",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465528",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465529",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465530",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465531",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465532",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465533",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465534",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465535",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465536",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465537",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465538",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465539",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465540",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465541",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465542",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465543",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465544",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465545",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465546",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2212",
+    "package_id": "0465547",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2301",
+    "package_id": "0877700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2302",
+    "package_id": "02677700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2303",
+    "package_id": "0577700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2304",
+    "package_id": "0377700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2314",
+    "package_id": "0177700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2315",
+    "package_id": "05377700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2316",
+    "package_id": "077700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2737",
+    "package_id": "FA0008",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2738",
+    "package_id": "FA0009",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2739",
+    "package_id": "FA0010",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2746",
+    "package_id": "FA0011",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2747",
+    "package_id": "04177700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2748",
+    "package_id": "FA0003",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2749",
+    "package_id": "FA0002",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2750",
+    "package_id": "FA0007",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2794",
+    "package_id": "0401100",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2794",
+    "package_id": "0401101",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430702",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430713",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430713",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430715",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430742",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430742",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2795",
+    "package_id": "0430766",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2796",
+    "package_id": "0424009",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2796",
+    "package_id": "0424010",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "REINSURER",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2796",
+    "package_id": "0424011",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2874",
+    "package_id": "0465700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "2874",
+    "package_id": "0465701",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "DIRECT",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3004",
+    "package_id": "07177700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3008",
+    "package_id": "01777700",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3009",
+    "package_id": "FA0001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3010",
+    "package_id": "FA0005",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3011",
+    "package_id": "FA0006",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3017",
+    "package_id": "FO0001",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  },
+  {
+    "partner_contract_reference": "3021",
+    "package_id": "FA0014",
+    "rebilling_type": "OPAQUE_DIFFERENT_COST",
+    "risk_type": "SERVICE",
+    "accounting_entity_id": "GB01",
+    "insurance_class": "B18"
+  }
+]
