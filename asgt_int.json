@@ -3,1344 +3,1152 @@
         "country":  "AD",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AD",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AD",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AD",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AL",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AL",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AL",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AL",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AT",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT22H"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "AT",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "AT",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "AZ",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AZ",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AZ",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "AZ",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BA",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BA",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BA",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BA",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BE",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT22H"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "BE",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "BE",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT7M",
-        "mission_autoclosure_delay":  "P3D"
+        "automatic_assignment_timeout":  "PT7M"
     },
     {
         "country":  "BE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "BG",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BG",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BG",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "BG",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CH",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CH",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CH",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CH",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CO",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "CO",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "CO",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "CO",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "CY",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CY",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CY",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CY",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CZ",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CZ",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CZ",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "CZ",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "DE",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT22H"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "DE",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "DE",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "DE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "DK",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "DK",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "DK",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "DK",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "EE",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "EE",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "EE",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "EE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ES",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "ES",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "ES",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P40D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "ES",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "FI",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "FI",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "FI",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "FI",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "FR",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT16M",
-        "automatic_assignment_timeout":  "PT35M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT35M"
     },
     {
         "country":  "FR",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "FR",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "FR",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "GB",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "P3D",
-        "automatic_assignment_timeout":  "P3DT12H",
-        "mission_autoclosure_delay":  "P90D"
+        "automatic_assignment_timeout":  "P3DT12H"
     },
     {
         "country":  "GB",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "GB",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P5D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "GB",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "GR",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "GR",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "GR",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "GR",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HR",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HR",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HR",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HR",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HU",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HU",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HU",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "HU",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "IE",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT15M",
-        "automatic_assignment_timeout":  "PT30M",
-        "mission_autoclosure_delay":  "P14D"
+        "automatic_assignment_timeout":  "PT30M"
     },
     {
         "country":  "IE",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IE",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P5D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IS",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "IS",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "IS",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "IS",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "IT",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IT",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P5D"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "IT",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT11M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT11M"
     },
     {
         "country":  "IT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P5D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "LI",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LI",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LI",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LI",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LT",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LT",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LT",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LU",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT22H"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "LU",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "LU",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LU",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "LV",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LV",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LV",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "LV",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MA",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MA",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MA",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MA",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MC",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MC",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MC",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MC",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MD",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MD",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MD",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MD",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ME",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ME",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ME",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ME",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MK",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MK",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MK",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MK",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MT",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MT",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MT",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "MT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "NL",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT22H"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "NL",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "P1DT18H"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "NL",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "NL",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P1D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "NO",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "NO",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "NO",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "NO",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "PL",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "PL",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "PL",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "PL",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "PT",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "PT",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "PT",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "PT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "RO",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RO",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RO",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RO",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RS",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RS",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RS",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "RS",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SE",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SE",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SE",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SI",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SI",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SI",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SI",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SK",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SK",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SK",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "SK",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TN",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TN",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TN",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TN",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TR",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TR",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TR",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "TR",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "UA",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "UA",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "UA",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "UA",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "VA",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "VA",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "VA",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "VA",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ZZ",
         "category":  "ROADSIDE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "PT5M"
+        "automatic_assignment_timeout":  "PT10M"
     },
     {
         "country":  "ZZ",
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "PT5M"
+        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "ZZ",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
-        "automatic_assignment_timeout":  "PT5M",
-        "mission_autoclosure_delay":  "PT8M"
+        "automatic_assignment_timeout":  "PT5M"
     },
     {
         "country":  "ZZ",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT7M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "PT7M"
+        "automatic_assignment_timeout":  "PT10M"
     }
 ]
