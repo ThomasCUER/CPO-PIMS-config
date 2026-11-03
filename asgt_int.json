@@ -8,13 +8,6 @@
     },
     {
         "country":  "AD",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "AD",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -58,13 +51,6 @@
     {
         "country":  "AL",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "AL",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -117,13 +103,6 @@
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "PT22H"
-    },
-    {
-        "country":  "AT",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
     },
     {
         "country":  "AT",
@@ -176,13 +155,6 @@
     },
     {
         "country":  "AZ",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "AZ",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -226,13 +198,6 @@
     {
         "country":  "BA",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "BA",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -285,13 +250,6 @@
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "PT22H"
-    },
-    {
-        "country":  "BE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
     },
     {
         "country":  "BE",
@@ -344,13 +302,6 @@
     },
     {
         "country":  "BG",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "BG",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -400,13 +351,6 @@
     },
     {
         "country":  "CH",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "CH",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -450,13 +394,6 @@
     {
         "country":  "CO",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "CO",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "P2D"
@@ -506,13 +443,6 @@
     {
         "country":  "CY",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "CY",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -562,13 +492,6 @@
     {
         "country":  "CZ",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "CZ",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -624,13 +547,6 @@
     },
     {
         "country":  "DE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "DE",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
@@ -680,13 +596,6 @@
     },
     {
         "country":  "DK",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "DK",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -736,13 +645,6 @@
     },
     {
         "country":  "EE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "EE",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -786,13 +688,6 @@
     {
         "country":  "ES",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "ES",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "P2D"
@@ -842,13 +737,6 @@
     {
         "country":  "FI",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "FI",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -918,13 +806,6 @@
     },
     {
         "country":  "FR",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "FR",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
         "automatic_assignment_timeout":  "PT5M",
@@ -957,13 +838,6 @@
         "mission_order_timeout":  "P3D",
         "automatic_assignment_timeout":  "P3DT12H",
         "mission_autoclosure_delay":  "P90D"
-    },
-    {
-        "country":  "GB",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
     },
     {
         "country":  "GB",
@@ -1016,13 +890,6 @@
     },
     {
         "country":  "GR",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "GR",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -1072,13 +939,6 @@
     },
     {
         "country":  "HR",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "HR",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -1122,13 +982,6 @@
     {
         "country":  "HU",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "HU",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1184,13 +1037,6 @@
     },
     {
         "country":  "IE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "IE",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
@@ -1234,13 +1080,6 @@
     {
         "country":  "IS",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "IS",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1293,13 +1132,6 @@
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "P1D"
-    },
-    {
-        "country":  "IT",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P5D"
     },
     {
         "country":  "IT",
@@ -1352,13 +1184,6 @@
     },
     {
         "country":  "LI",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "LI",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -1402,13 +1227,6 @@
     {
         "country":  "LT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "LT",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1464,13 +1282,6 @@
     },
     {
         "country":  "LU",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "LU",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
@@ -1520,13 +1331,6 @@
     },
     {
         "country":  "LV",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "LV",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -1576,13 +1380,6 @@
     },
     {
         "country":  "MA",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "MA",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -1626,13 +1423,6 @@
     {
         "country":  "MC",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "MC",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1682,13 +1472,6 @@
     {
         "country":  "MD",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "MD",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1738,13 +1521,6 @@
     {
         "country":  "ME",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "ME",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1794,13 +1570,6 @@
     {
         "country":  "MK",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "MK",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1850,13 +1619,6 @@
     {
         "country":  "MT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "MT",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -1912,13 +1674,6 @@
     },
     {
         "country":  "NL",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "NL",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
@@ -1968,13 +1723,6 @@
     },
     {
         "country":  "NO",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "NO",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -2024,13 +1772,6 @@
     },
     {
         "country":  "PL",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "PL",
         "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
@@ -2074,13 +1815,6 @@
     {
         "country":  "PT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "PT",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M",
         "mission_autoclosure_delay":  "P2D"
@@ -2130,13 +1864,6 @@
     {
         "country":  "RO",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "RO",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2186,13 +1913,6 @@
     {
         "country":  "RS",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "RS",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2242,13 +1962,6 @@
     {
         "country":  "SE",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "SE",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2298,13 +2011,6 @@
     {
         "country":  "SI",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "SI",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2354,13 +2060,6 @@
     {
         "country":  "SK",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "SK",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2410,13 +2109,6 @@
     {
         "country":  "TN",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "TN",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2466,13 +2158,6 @@
     {
         "country":  "TR",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "TR",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2522,13 +2207,6 @@
     {
         "country":  "UA",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "UA",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
@@ -2578,13 +2256,6 @@
     {
         "country":  "VA",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT6M",
-        "automatic_assignment_timeout":  "PT10M",
-        "mission_autoclosure_delay":  "P2D"
-    },
-    {
-        "country":  "VA",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT6M",
         "automatic_assignment_timeout":  "PT10M",
         "mission_autoclosure_delay":  "P2D"
