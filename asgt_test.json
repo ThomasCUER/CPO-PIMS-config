@@ -1,25 +1,7 @@
 [
     {
         "country":  "AT",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "AT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "AT",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "AT",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -37,43 +19,13 @@
     },
     {
         "country":  "AT",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "AT",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "AT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "BE",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "BE",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "BE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "BE",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -91,43 +43,13 @@
     },
     {
         "country":  "BE",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "BE",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "BE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "CO",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "CO",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "CO",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "CO",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -145,43 +67,13 @@
     },
     {
         "country":  "CO",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "CO",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "CO",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "DE",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "DE",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "DE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "DE",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -199,43 +91,13 @@
     },
     {
         "country":  "DE",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "DE",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "DE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "ES",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "ES",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "ES",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "ES",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -248,18 +110,6 @@
     {
         "country":  "ES",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "ES",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "ES",
-        "category":  "TRAVEL_TICKET",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -277,25 +127,7 @@
     },
     {
         "country":  "FR",
-        "category":  "HOUSE_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "FR",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "FR",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "FR",
-        "category":  "HOUSE_DELIVERY",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -304,18 +136,6 @@
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
         "automatic_assignment_timeout":  "PT5M"
-    },
-    {
-        "country":  "FR",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "FR",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "FR",
@@ -331,24 +151,6 @@
     },
     {
         "country":  "GB",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "GB",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "GB",
-        "category":  "HOUSE_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "GB",
         "category":  "RENTAL",
         "mission_order_timeout":  "PT1M",
         "automatic_assignment_timeout":  "PT5M"
@@ -361,25 +163,7 @@
     },
     {
         "country":  "GB",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "GB",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "GB",
         "category":  "VEHICLE_FOR_HIRE",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IE",
-        "category":  "ACCOMMODATION",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -388,18 +172,6 @@
         "category":  "DOMESTIC",
         "mission_order_timeout":  "PT15M",
         "automatic_assignment_timeout":  "PT30M"
-    },
-    {
-        "country":  "IE",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IE",
-        "category":  "HOUSE_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IE",
@@ -415,43 +187,13 @@
     },
     {
         "country":  "IE",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IE",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IE",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "IT",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IT",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IT",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -469,43 +211,13 @@
     },
     {
         "country":  "IT",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IT",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "IT",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "LU",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "LU",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "LU",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "LU",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -523,43 +235,13 @@
     },
     {
         "country":  "LU",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "LU",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "LU",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "NL",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "NL",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "NL",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "NL",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -577,43 +259,13 @@
     },
     {
         "country":  "NL",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "NL",
-        "category":  "TRAVEL_TICKET",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "NL",
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
         "country":  "PT",
-        "category":  "ACCOMMODATION",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "PT",
         "category":  "DOMESTIC",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "PT",
-        "category":  "HOUSE_DELIVERY",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "PT",
-        "category":  "HOUSE_HELP",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -626,18 +278,6 @@
     {
         "country":  "PT",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "PT",
-        "category":  "SPECIALIZED_HELP",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
-    },
-    {
-        "country":  "PT",
-        "category":  "TRAVEL_TICKET",
         "mission_order_timeout":  "PT10M",
         "automatic_assignment_timeout":  "PT15M"
     },
@@ -670,11 +310,5 @@
         "category":  "VEHICLE_FOR_HIRE",
         "mission_order_timeout":  "PT7M",
         "automatic_assignment_timeout":  "PT10M"
-    },
-    {
-        "country":  "ZZ",
-        "category":  "HOUSE_HELP",
-        "mission_order_timeout":  "PT11M",
-        "automatic_assignment_timeout":  "PT7M"
     }
 ]
