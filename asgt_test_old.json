@@ -919,7 +919,7 @@
     {
         "country": "ES",
         "category": "ROADSIDE",
-        "mission_order_timeout": "PT10M",
+        "mission_order_timeout": "PT5M",
         "automatic_assignment_timeout": "PT15M",
         "mission_autoclosure_delay": "P40D"
     },
@@ -1012,7 +1012,7 @@
         "category": "DOMESTIC",
         "mission_order_timeout": "PT16M",
         "automatic_assignment_timeout": "PT35M",
-        "mission_autoclosure_delay": "P2D"
+        "mission_autoclosure_delay": "P1D"
     },
     {
         "country": "FR",
@@ -1026,7 +1026,7 @@
         "category": "ROADSIDE",
         "mission_order_timeout": "PT10M",
         "automatic_assignment_timeout": "PT15M",
-        "mission_autoclosure_delay": "P2D"
+        "mission_autoclosure_delay": "P1D"
     },
     {
         "country": "FR",
@@ -1066,8 +1066,8 @@
     {
         "country": "FR",
         "category": "VEHICLE_FOR_HIRE",
-        "mission_order_timeout": "PT10M",
-        "automatic_assignment_timeout": "PT15M",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT12M",
         "mission_autoclosure_delay": "P1D"
     },
     {
@@ -2983,16 +2983,16 @@
     },
     {
         "country": "ZZ",
-        "category": "VEHICLE_FOR_HIRE",
-        "mission_order_timeout": "PT7M",
-        "automatic_assignment_timeout": "PT10M",
-        "mission_autoclosure_delay": "PT7M"
-    },
-    {
-        "country": "ZZ",
         "category": "HOUSE_HELP",
         "mission_order_timeout": "PT11M",
         "automatic_assignment_timeout": "PT7M",
         "mission_autoclosure_delay": "P3D"
+    },
+    {
+        "country": "ZZ",
+        "category": "VEHICLE_FOR_HIRE",
+        "mission_order_timeout": "PT7M",
+        "automatic_assignment_timeout": "PT10M",
+        "mission_autoclosure_delay": "PT7M"
     }
 ]

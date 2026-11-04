@@ -820,6 +820,13 @@
 	},
 	{
 		"country": "ES",
+		"category": "ROADSIDE",
+		"mission_order_timeout": "PT5M",
+		"automatic_assignment_timeout": "PT15M",
+		"mission_autoclosure_delay": "P40D"
+	},
+	{
+		"country": "ES",
 		"category": "ACCOMMODATION",
 		"mission_order_timeout": "PT10M",
 		"automatic_assignment_timeout": "PT15M",
@@ -849,13 +856,6 @@
 	{
 		"country": "ES",
 		"category": "RENTAL",
-		"mission_order_timeout": "PT10M",
-		"automatic_assignment_timeout": "PT15M",
-		"mission_autoclosure_delay": "P40D"
-	},
-	{
-		"country": "ES",
-		"category": "ROADSIDE",
 		"mission_order_timeout": "PT10M",
 		"automatic_assignment_timeout": "PT15M",
 		"mission_autoclosure_delay": "P40D"

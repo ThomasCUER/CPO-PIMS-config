@@ -110,7 +110,7 @@
     {
         "country":  "ES",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT10M",
+        "mission_order_timeout":  "PT5M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
@@ -140,8 +140,8 @@
     {
         "country":  "FR",
         "category":  "VEHICLE_FOR_HIRE",
-        "mission_order_timeout":  "PT10M",
-        "automatic_assignment_timeout":  "PT15M"
+        "mission_order_timeout":  "PT7M",
+        "automatic_assignment_timeout":  "PT12M"
     },
     {
         "country":  "GB",
@@ -290,7 +290,7 @@
     {
         "country":  "ZZ",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT7M",
+        "mission_order_timeout":  "PT19S",
         "automatic_assignment_timeout":  "PT10M"
     },
     {

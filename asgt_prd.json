@@ -86,7 +86,7 @@
     {
         "country":  "ES",
         "category":  "ROADSIDE",
-        "mission_order_timeout":  "PT10M",
+        "mission_order_timeout":  "PT5M",
         "automatic_assignment_timeout":  "PT15M"
     },
     {
