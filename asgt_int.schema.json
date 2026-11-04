@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/asgt_int.schema.json",
+  "title": "Assignment Config",
+  "description": "Schema for assignment timeout configuration rows.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "country",
+      "category",
+      "mission_order_timeout",
+      "automatic_assignment_timeout"
+    ],
+    "properties": {
+      "country": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$",
+        "description": "ISO-like 2-letter uppercase country code."
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "DOMESTIC",
+          "RENTAL",
+          "ROADSIDE",
+          "VEHICLE_FOR_HIRE"
+        ]
+      },
+      "mission_order_timeout": {
+        "type": "string",
+        "format": "duration",
+        "pattern": "^P(?!$)(?:\\d+D)?(?:T(?=\\d)(?:\\d+H)?(?:\\d+M)?(?:\\d+S)?)?$",
+        "description": "ISO 8601 duration (examples: PT10M, PT5M, P3D, P3DT12H)."
+      },
+      "automatic_assignment_timeout": {
+        "type": "string",
+        "format": "duration",
+        "pattern": "^P(?!$)(?:\\d+D)?(?:T(?=\\d)(?:\\d+H)?(?:\\d+M)?(?:\\d+S)?)?$",
+        "description": "ISO 8601 duration (examples: PT15M, PT7M, P3DT12H)."
+      }
+    }
+  }
+}
